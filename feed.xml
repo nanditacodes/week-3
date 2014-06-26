@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Life at the Ironyard</title>
+  <subtitle>Change is good.</subtitle>
+  <id>http://www.example.com</id>
+  <link href="http://www.example.com"/>
+  <link href="http://www.example.com/feed.xml" rel="self"/>
+  <updated>2014-06-25T14:56:00-05:00</updated>
+  <author>
+    <name>Nandita Rajagopalan</name>
+  </author>
+  <entry>
+    <title>Week two - Living and Breathing Ruby</title>
+    <link rel="alternate" href="http://www.example.com/2014/06/25/week-two-living-and-breathing-ruby/"/>
+    <id>http://www.example.com/2014/06/25/week-two-living-and-breathing-ruby/</id>
+    <published>2014-06-25T14:56:00-05:00</published>
+    <updated>2014-06-25T18:32:33-05:00</updated>
+    <author>
+      <name>Nandita Rajagopalan</name>
+    </author>
+    <summary type="html">This course is intense! Week two was super hard. So many things to learn and
+remember. I am still feeling good about this program. This is one of the hardest
+things I have ever done. And it feels good to go from one week to another; like an
+achievement...</summary>
+  </entry>
+  <entry>
+    <title>Week one - Begin with the end in mind.</title>
+    <link rel="alternate" href="http://www.example.com/2014/06/25/week-one-baby-steps/"/>
+    <id>http://www.example.com/2014/06/25/week-one-baby-steps/</id>
+    <published>2014-06-25T14:56:00-05:00</published>
+    <updated>2014-06-25T18:32:17-05:00</updated>
+    <author>
+      <name>Nandita Rajagopalan</name>
+    </author>
+    <summary type="html">The day was finally here. My first day at the IronYard. I had decided a few weeks
+ago to step out of my comfort zone and begin a 12 week period of learning. I sat in
+class super excited to meet my cohort - I would be continuing this journey with them...</summary>
+  </entry>
+</feed>
