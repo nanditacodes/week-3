@@ -20,7 +20,7 @@
 /* ==========================================================================
    0. Normalize.css v2.1.3 | MIT License | git.io/normalize | (minified)
    ========================================================================== */
-/* line 30, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 30, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 article, aside, details,
 figcaption, figure,
 footer, header, hgroup,
@@ -28,180 +28,180 @@ main, nav, section,
 summary {
   display: block; }
 
-/* line 31, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 31, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 audio, canvas, video {
   display: inline-block; }
 
-/* line 32, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 32, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 audio:not([controls]) {
   display: none;
   height: 0; }
 
-/* line 33, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 33, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 [hidden], template {
   display: none; }
 
-/* line 34, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 34, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
-/* line 39, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 39, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 body {
   margin: 0; }
 
-/* line 40, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 40, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 a {
   background: transparent; }
 
-/* line 41, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 41, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 a:focus {
   outline: thin dotted; }
 
-/* line 42, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 42, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 a:active, a:hover {
   outline: 0; }
 
-/* line 43, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 43, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
-/* line 44, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 44, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 abbr[title] {
   border-bottom: 1px dotted; }
 
-/* line 45, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 45, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 b, strong {
   font-weight: bold; }
 
-/* line 46, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 46, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 dfn {
   font-style: italic; }
 
-/* line 47, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 47, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0; }
 
-/* line 52, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 52, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 mark {
   background: #ff0;
   color: #000; }
 
-/* line 54, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 54, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 code, kbd, pre,
 samp {
   font-family: monospace, serif;
   font-size: 1em; }
 
-/* line 55, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 55, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 pre {
   white-space: pre-wrap; }
 
-/* line 56, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 56, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
 
-/* line 57, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 57, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 small {
   font-size: 80%; }
 
-/* line 58, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 58, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 sub, sup {
   font-size: 75%;
   line-height: 0;
   position: relative;
   vertical-align: baseline; }
 
-/* line 64, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 64, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 sup {
   top: -0.5em; }
 
-/* line 65, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 65, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 sub {
   bottom: -0.25em; }
 
-/* line 66, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 66, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 img {
   border: 0; }
 
-/* line 67, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 67, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 svg:not(:root) {
   overflow: hidden; }
 
-/* line 68, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 68, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 figure {
   margin: 0; }
 
-/* line 69, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 69, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
-/* line 74, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 74, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 legend {
   border: 0;
   padding: 0; }
 
-/* line 76, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 76, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 button, input, select,
 textarea {
   font-family: inherit;
   font-size: 100%;
   margin: 0; }
 
-/* line 77, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 77, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 button, input {
   line-height: normal; }
 
-/* line 78, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 78, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 button, select {
   text-transform: none; }
 
-/* line 80, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 80, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 button, html input[type="button"],
 input[type="reset"], input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer; }
 
-/* line 84, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 84, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 button[disabled], html input[disabled] {
   cursor: default; }
 
-/* line 86, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 86, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
   padding: 0; }
 
-/* line 87, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 87, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box; }
 
-/* line 94, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 94, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
 
-/* line 96, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 96, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
-/* line 97, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 97, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
-/* line 98, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 98, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
@@ -218,7 +218,7 @@ table {
   font-style: normal; }
 
 /* Apply these base styles to all icons */
-/* line 122, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 122, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .icon-ghost:before,
 .icon-feed:before,
 .icon-twitter:before,
@@ -237,37 +237,37 @@ table {
 
 /* Each icon is created by inserting the corret character into the
    content of the :before pseudo element. Like a boss. */
-/* line 137, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 137, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .icon-ghost:before {
   content: "\e000"; }
 
-/* line 140, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 140, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .icon-feed:before {
   content: "\e001"; }
 
-/* line 143, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 143, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .icon-twitter:before {
   content: "\e002";
   font-size: 1.1em; }
 
-/* line 147, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 147, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .icon-google-plus:before {
   content: "\e003"; }
 
-/* line 150, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 150, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .icon-facebook:before {
   content: "\e004"; }
 
 /* ==========================================================================
    2. General - Setting up some base styles
    ========================================================================== */
-/* line 159, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 159, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 html {
   height: 100%;
   max-height: 100%;
   font-size: 62.5%; }
 
-/* line 165, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 165, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 body {
   height: 100%;
   max-height: 100%;
@@ -276,19 +276,19 @@ body {
   line-height: 1.6em;
   color: #3A4145; }
 
-/* line 174, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 174, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 ::-moz-selection {
   color: #222;
   background: #D6EDFF;
   text-shadow: none; }
 
-/* line 180, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 180, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 ::selection {
   color: #222;
   background: #D6EDFF;
   text-shadow: none; }
 
-/* line 187, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 187, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h1, h2, h3,
 h4, h5, h6 {
   text-rendering: optimizeLegibility;
@@ -296,60 +296,60 @@ h4, h5, h6 {
   margin-top: 0;
   font-family: 'Open Sans', sans-serif; }
 
-/* line 194, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 194, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h1 {
   font-size: 5rem;
   line-height: 1.2em;
   letter-spacing: -2px;
   text-indent: -3px; }
 
-/* line 201, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 201, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h2 {
   font-size: 4rem;
   line-height: 1.2em;
   letter-spacing: -1px;
   text-indent: -2px; }
 
-/* line 208, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 208, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h3 {
   font-size: 3.5rem; }
 
-/* line 212, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 212, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h4 {
   font-size: 3rem; }
 
-/* line 216, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 216, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h5 {
   font-size: 2.5rem; }
 
-/* line 220, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 220, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h6 {
   font-size: 2rem; }
 
-/* line 224, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 224, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 a {
   color: #4a4a4a;
   transition: color ease 0.3s; }
 
-/* line 229, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 229, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 a:hover {
   color: #57A3E8; }
 
-/* line 234, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 234, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 h1 a, h2 a, h3 a,
 h4 a, h5 a, h6 a {
   color: #50585D; }
 
-/* line 239, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 239, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 p, ul, ol, dl {
   margin: 1.6em 0; }
 
-/* line 244, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 244, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 ol ol, ul ul,
 ul ol, ol ul {
   margin: 0.4em 0; }
 
-/* line 248, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 248, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 dl dt {
   float: left;
   width: 180px;
@@ -361,12 +361,12 @@ dl dt {
   font-weight: bold;
   margin-bottom: 1em; }
 
-/* line 260, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 260, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 dl dd {
   margin-left: 200px;
   margin-bottom: 1em; }
 
-/* line 265, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 265, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 hr {
   display: block;
   height: 1px;
@@ -375,7 +375,7 @@ hr {
   margin: 3.2em 0;
   padding: 0; }
 
-/* line 274, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 274, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 blockquote {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -383,35 +383,35 @@ blockquote {
   padding: 0 0 0 1.6em;
   border-left: #4a4a4a 0.4em solid; }
 
-/* line 282, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 282, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 blockquote p {
   margin: 0.8em 0;
   font-style: italic; }
 
-/* line 287, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 287, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 blockquote small {
   display: inline-block;
   margin: 0.8em 0 0.8em 1.5em;
   font-size: 0.9em;
   color: #ccc; }
 
-/* line 294, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 294, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 blockquote small:before {
   content: '\2014 \00A0'; }
 
-/* line 296, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 296, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 blockquote cite {
   font-weight: bold; }
 
-/* line 300, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 300, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 blockquote cite a {
   font-weight: normal; }
 
-/* line 302, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 302, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 mark {
   background-color: #ffc336; }
 
-/* line 306, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 306, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 code, tt {
   padding: 1px 3px;
   font-family: Inconsolata, monospace, sans-serif;
@@ -421,7 +421,7 @@ code, tt {
   background: #F7FAFB;
   border-radius: 2px; }
 
-/* line 316, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 316, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 pre {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -436,7 +436,7 @@ pre {
   background: #F7FAFB;
   border-radius: 3px; }
 
-/* line 331, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 331, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 pre code, tt {
   font-size: inherit;
   white-space: -moz-pre-wrap;
@@ -445,7 +445,7 @@ pre code, tt {
   border: none;
   padding: 0; }
 
-/* line 340, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 340, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 kbd {
   display: inline-block;
   margin-bottom: 0.4em;
@@ -459,7 +459,7 @@ kbd {
   border-radius: 4px;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 white inset; }
 
-/* line 356, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 356, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -468,7 +468,7 @@ table {
   max-width: 100%;
   background-color: transparent; }
 
-/* line 366, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 366, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table th,
 table td {
   padding: 8px;
@@ -477,11 +477,11 @@ table td {
   vertical-align: top;
   border-top: 1px solid #efefef; }
 
-/* line 374, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 374, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table th {
   color: #000; }
 
-/* line 381, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 381, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table caption + thead tr:first-child th,
 table caption + thead tr:first-child td,
 table colgroup + thead tr:first-child th,
@@ -490,32 +490,32 @@ table thead:first-child tr:first-child th,
 table thead:first-child tr:first-child td {
   border-top: 0; }
 
-/* line 385, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 385, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table tbody + tbody {
   border-top: 2px solid #efefef; }
 
-/* line 387, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 387, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table table table {
   background-color: #fff; }
 
-/* line 390, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 390, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table tbody > tr:nth-child(odd) > td,
 table tbody > tr:nth-child(odd) > th {
   background-color: #f6f6f6; }
 
-/* line 395, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 395, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 table.plain tbody > tr:nth-child(odd) > td,
 table.plain tbody > tr:nth-child(odd) > th {
   background: transparent; }
 
-/* line 399, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 399, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 iframe, .fluid-width-video-wrapper {
   display: block;
   margin: 1.6em 0; }
 
 /* When a video is inside the fitvids wrapper, drop the
 margin on the iframe, cause it breaks stuff. */
-/* line 406, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 406, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .fluid-width-video-wrapper iframe {
   margin: 0; }
 
@@ -523,29 +523,29 @@ margin on the iframe, cause it breaks stuff. */
    3. Utilities - These things get used a lot
    ========================================================================== */
 /* Clears shit */
-/* line 417, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 417, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .clearfix:before,
 .clearfix:after {
   content: " ";
   display: table; }
 
-/* line 421, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 421, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .clearfix:after {
   clear: both; }
 
-/* line 422, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 422, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .clearfix {
   *zoom: 1; }
 
 /* Hides shit */
-/* line 425, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 425, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .hidden {
   text-indent: -9999px;
   visibility: hidden;
   display: none; }
 
 /* Creates a responsive wrapper that makes our content scale nicely */
-/* line 432, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 432, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .inner {
   position: relative;
   width: 80%;
@@ -553,7 +553,7 @@ margin on the iframe, cause it breaks stuff. */
   margin: 0 auto; }
 
 /* Centres vertically yo. (IE8+) */
-/* line 440, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 440, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .vertical {
   display: table-cell;
   vertical-align: middle; }
@@ -562,7 +562,7 @@ margin on the iframe, cause it breaks stuff. */
    4. General - The main styles for the the theme
    ========================================================================== */
 /* Big cover image on the home page */
-/* line 451, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 451, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .site-head {
   position: relative;
   display: table;
@@ -574,12 +574,12 @@ margin on the iframe, cause it breaks stuff. */
   background: #303538 no-repeat center center;
   background-size: cover; }
 
-/* line 463, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 463, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .blog-logo {
   text-decoration: none; }
 
 /* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
-/* line 468, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 468, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .blog-logo img {
   display: block;
   max-height: 100px;
@@ -588,7 +588,7 @@ margin on the iframe, cause it breaks stuff. */
   line-height: 0; }
 
 /* The details of your blog. Defined in ghost/settings/ */
-/* line 477, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 477, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .blog-title {
   margin: 10px 0 10px 0;
   font-size: 5rem;
@@ -597,7 +597,7 @@ margin on the iframe, cause it breaks stuff. */
   font-family: 'Open Sans', sans-serif;
   text-shadow: 0 1px 6px rgba(0, 0, 0, 0.1); }
 
-/* line 486, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 486, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .blog-description {
   margin: 0;
   font-size: 1.8rem;
@@ -608,7 +608,7 @@ margin on the iframe, cause it breaks stuff. */
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15); }
 
 /* Every post, on every page, gets this style on its <article> tag */
-/* line 497, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 497, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post {
   position: relative;
   width: 80%;
@@ -621,7 +621,7 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
-/* line 510, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 510, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post:after {
   display: block;
   content: "";
@@ -638,21 +638,21 @@ margin on the iframe, cause it breaks stuff. */
   border-radius: 100%;
   box-shadow: #fff 0 0 0 5px; }
 
-/* line 527, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 527, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-title {
   margin: 0; }
 
-/* line 531, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 531, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-title a {
   text-decoration: none; }
 
-/* line 535, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 535, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-excerpt p {
   margin: 1.6rem 0 0 0;
   font-size: 0.9em;
   line-height: 1.6em; }
 
-/* line 541, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 541, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-meta {
   display: inline-block;
   margin: 0 0 5px 0;
@@ -660,40 +660,40 @@ margin on the iframe, cause it breaks stuff. */
   font-size: 1.5rem;
   color: #9EABB3; }
 
-/* line 549, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 549, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-meta a {
   color: #9EABB3;
   text-decoration: none; }
 
-/* line 554, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 554, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-meta a:hover {
   text-decoration: underline; }
 
-/* line 558, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 558, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .user-meta {
   position: relative;
   padding: 0.3rem 40px 0 100px;
   min-height: 77px; }
 
-/* line 564, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 564, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .user-image {
   position: absolute;
   top: 0;
   left: 0; }
 
-/* line 570, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 570, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .user-name {
   display: block;
   font-weight: bold; }
 
-/* line 575, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 575, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .user-bio {
   display: block;
   max-width: 440px;
   font-size: 1.4rem;
   line-height: 1.5em; }
 
-/* line 582, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 582, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .publish-meta {
   position: absolute;
   top: 0;
@@ -701,12 +701,12 @@ margin on the iframe, cause it breaks stuff. */
   padding: 4.3rem 0 4rem 0;
   text-align: right; }
 
-/* line 590, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 590, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .publish-heading {
   display: block;
   font-weight: bold; }
 
-/* line 595, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 595, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .publish-date {
   display: block;
   font-size: 1.4rem;
@@ -717,35 +717,35 @@ margin on the iframe, cause it breaks stuff. */
    ========================================================================== */
 /* Stop .full-img from creating horizontal scroll - slight hack due to
    imperfections with browser width % calculations and rounding */
-/* line 607, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 607, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-template .content {
   overflow: hidden; }
 
 /* Tweak the .post wrapper style */
-/* line 612, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 612, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-template .post {
   margin-top: 0;
   border-bottom: none;
   padding-bottom: 0; }
 
 /* Kill that stylish little circle that was on the border, too */
-/* line 619, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 619, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-template .post:after {
   display: none; }
 
 /* Insert some mad padding up in the header for better spacing */
-/* line 624, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 624, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-template .post-header {
   padding: 60px 0;
   text-align: center; }
 
-/* line 629, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 629, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-template .blog-title {
   display: inline-block;
   padding: 2.5rem 0; }
 
 /* Keep images centred and within the bounds of the post-width */
-/* line 635, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 635, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-content img {
   display: block;
   max-width: 100%;
@@ -755,33 +755,33 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Break out larger images to be wider than the main text column
    the class is applied with jQuery */
-/* line 645, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 645, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-content .full-img {
   width: 126%;
   max-width: none;
   margin: 0 -13%; }
 
 /* The author credit area after the post */
-/* line 652, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 652, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-footer {
   position: relative;
   margin: 4rem 0 0 0;
   padding: 4rem 0 0 0;
   border-top: #EBF2F6 1px solid; }
 
-/* line 659, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 659, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-footer h4 {
   font-size: 1.8rem;
   margin: 0; }
 
-/* line 664, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 664, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-footer p {
   margin: 1rem 0;
   font-size: 1.4rem;
   line-height: 1.6em; }
 
 /* list of author links - location / url */
-/* line 671, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 671, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .author-meta {
   padding: 0;
   margin: 0;
@@ -791,14 +791,14 @@ margin on the iframe, cause it breaks stuff. */
   font-style: italic;
   color: #9EABB3; }
 
-/* line 681, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 681, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .author-meta li {
   float: left;
   margin-left: 10px;
   /* space to the left of the bullet */ }
 
 /* bullet divider */
-/* line 687, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 687, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .author-meta li:before {
   content: "•";
   display: inline-block;
@@ -807,24 +807,24 @@ margin on the iframe, cause it breaks stuff. */
   color: #BBC7CC; }
 
 /* disable the bullet divider for the first item in the list */
-/* line 695, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 695, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .author-meta li:first-child {
   margin-left: 0; }
 
-/* line 696, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 696, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .author-meta li:first-child:before {
   display: none; }
 
-/* line 698, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 698, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .author-meta a {
   color: #9EABB3; }
 
-/* line 701, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 701, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .author-meta a:hover {
   color: #57A3E8; }
 
 /* Create some space to the right for the share links */
-/* line 706, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 706, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-footer .author {
   margin-right: 180px; }
 
@@ -832,14 +832,14 @@ margin on the iframe, cause it breaks stuff. */
    Doing it like this means it's easier for the author bio
    to be flexible at smaller screen sizes while the share
    links remain at a fixed width the whole time */
-/* line 714, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 714, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-footer .share {
   position: absolute;
   top: 4rem;
   right: 0;
   width: 140px; }
 
-/* line 721, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 721, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-footer .share a {
   font-size: 1.8rem;
   display: inline-block;
@@ -847,7 +847,7 @@ margin on the iframe, cause it breaks stuff. */
   color: #BBC7CC;
   text-decoration: none; }
 
-/* line 729, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 729, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .post-footer .share a:hover {
   color: #50585D; }
 
@@ -855,12 +855,12 @@ margin on the iframe, cause it breaks stuff. */
    6. Third Party Elements - Embeds from other services
    ========================================================================== */
 /* Github */
-/* line 740, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 740, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .gist table {
   margin: 0;
   font-size: 1.4rem; }
 
-/* line 745, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 745, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .gist .line-number {
   min-width: 25px;
   font-size: 1.1rem; }
@@ -869,7 +869,7 @@ margin on the iframe, cause it breaks stuff. */
    7. Pagination - Tools to let you flick between pages
    ========================================================================== */
 /* The main wrapper for our pagination links */
-/* line 756, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 756, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .pagination {
   position: relative;
   width: 80%;
@@ -880,12 +880,12 @@ margin on the iframe, cause it breaks stuff. */
   color: #9EABB3;
   text-align: center; }
 
-/* line 767, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 767, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .pagination a {
   color: #9EABB3; }
 
 /* Push the previous/next links out to the left/right */
-/* line 773, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 773, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .older-posts,
 .newer-posts {
   position: absolute;
@@ -896,20 +896,20 @@ margin on the iframe, cause it breaks stuff. */
   border-radius: 30px;
   transition: border ease 0.3s; }
 
-/* line 783, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 783, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .older-posts {
   right: 0; }
 
-/* line 787, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 787, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .page-number {
   display: inline-block;
   padding: 2px 0; }
 
-/* line 792, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 792, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .newer-posts {
   left: 0; }
 
-/* line 797, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 797, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .older-posts:hover,
 .newer-posts:hover {
   border-color: #9EABB3; }
@@ -917,7 +917,7 @@ margin on the iframe, cause it breaks stuff. */
 /* ==========================================================================
    8. Footer - The bottom of every page
    ========================================================================== */
-/* line 806, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 806, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .site-footer {
   position: relative;
   margin: 8rem 0 0 0;
@@ -930,31 +930,31 @@ margin on the iframe, cause it breaks stuff. */
   text-align: center;
   background: #F7FAFB; }
 
-/* line 819, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 819, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .site-footer a {
   color: #BBC7CC;
   text-decoration: underline; }
 
-/* line 824, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 824, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .site-footer a:hover {
   color: #50585D; }
 
-/* line 828, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 828, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .poweredby .icon-ghost {
   font-weight: 700;
   text-decoration: none; }
 
-/* line 833, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 833, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .poweredby .icon-ghost:hover {
   text-decoration: none; }
 
-/* line 837, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 837, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .poweredby .icon-ghost:before {
   font-size: 1rem;
   margin-right: 0.2em; }
 
 /* The subscribe icon on the footer */
-/* line 843, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 843, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .subscribe {
   width: 28px;
   height: 28px;
@@ -970,7 +970,7 @@ margin on the iframe, cause it breaks stuff. */
   transition: box-shadow 0.5s; }
 
 /* The RSS icon, inserted via icon font */
-/* line 859, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 859, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .subscribe:before {
   color: #D2DEE3;
   font-size: 10px;
@@ -981,17 +981,17 @@ margin on the iframe, cause it breaks stuff. */
   transition: color 0.5s ease; }
 
 /* Add a box shadow to on hover */
-/* line 870, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 870, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .subscribe:hover {
   box-shadow: rgba(0, 0, 0, 0.05) 0 0 0 3px;
   transition: box-shadow 0.25s; }
 
-/* line 875, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 875, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .subscribe:hover:before {
   color: #50585D; }
 
 /* CSS tooltip saying "Subscribe!" - initially hidden */
-/* line 880, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 880, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .tooltip {
   opacity: 0;
   display: inline-block;
@@ -1009,7 +1009,7 @@ margin on the iframe, cause it breaks stuff. */
   transition: opacity 0.3s ease, top 0.3s ease; }
 
 /* The little chiclet arrow under the tooltip, pointing down */
-/* line 898, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 898, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .tooltip:after {
   content: "";
   border-width: 5px 5px 0 5px;
@@ -1024,7 +1024,7 @@ margin on the iframe, cause it breaks stuff. */
   width: 0; }
 
 /* On hover, show the tooltip! */
-/* line 913, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+/* line 913, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
 .subscribe:hover .tooltip {
   opacity: 1;
   top: -33px; }
@@ -1033,11 +1033,11 @@ margin on the iframe, cause it breaks stuff. */
    9. Media Queries - Smaller than 900px
    ========================================================================== */
 @media only screen and (max-width: 900px) {
-  /* line 925, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 925, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   blockquote {
     margin-left: 0; }
 
-  /* line 929, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 929, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .site-head {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -1046,61 +1046,61 @@ margin on the iframe, cause it breaks stuff. */
     min-height: 240px;
     padding: 15% 0; }
 
-  /* line 938, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 938, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .blog-title {
     font-size: 4rem;
     letter-spacing: -1px; }
 
-  /* line 943, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 943, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .blog-description {
     font-size: 1.7rem;
     line-height: 1.5em; }
 
-  /* line 948, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 948, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post {
     font-size: 0.9em;
     line-height: 1.6em; }
 
-  /* line 953, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 953, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-template .post {
     padding-bottom: 1rem; }
 
-  /* line 957, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 957, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-template .post-header {
     padding: 40px 0; }
 
-  /* line 961, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 961, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   h1 {
     font-size: 4.8rem;
     text-indent: -2px; }
 
-  /* line 966, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 966, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   h2 {
     font-size: 3.8rem; }
 
-  /* line 970, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 970, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   h3 {
     font-size: 3.3rem; }
 
-  /* line 974, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 974, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   h4 {
     font-size: 2.8rem; } }
 /* ==========================================================================
    10. Media Queries - Smaller than 500px
    ========================================================================== */
 @media only screen and (max-width: 500px) {
-  /* line 987, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 987, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .blog-logo img {
     max-height: 80px; }
 
-  /* line 992, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 992, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .inner,
   .pagination {
     width: auto;
     margin-left: 16px;
     margin-right: 16px; }
 
-  /* line 998, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 998, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post {
     width: auto;
     margin-left: 16px;
@@ -1108,45 +1108,45 @@ margin on the iframe, cause it breaks stuff. */
     font-size: 0.8em;
     line-height: 1.6em; }
 
-  /* line 1006, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1006, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .site-head {
     padding: 10% 0; }
 
-  /* line 1010, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1010, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .blog-title {
     font-size: 3rem; }
 
-  /* line 1014, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1014, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .blog-description {
     font-size: 1.5rem; }
 
-  /* line 1019, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1019, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   h1, h2 {
     font-size: 3rem;
     line-height: 1.1em;
     letter-spacing: -1px; }
 
-  /* line 1025, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1025, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   h3 {
     font-size: 2.8rem; }
 
-  /* line 1029, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1029, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   h4 {
     font-size: 2.3rem; }
 
-  /* line 1033, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1033, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-template .post {
     padding-bottom: 0; }
 
-  /* line 1037, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1037, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-template .post-header {
     padding: 30px 0; }
 
-  /* line 1041, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1041, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-content img {
     padding: 0; }
 
-  /* line 1045, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1045, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-content .full-img {
     width: auto;
     width: calc(100% + 32px);
@@ -1157,41 +1157,41 @@ margin on the iframe, cause it breaks stuff. */
     max-width: 112%;
     /* fallback when calc doesn't work */ }
 
-  /* line 1053, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1053, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-meta {
     font-size: 1.3rem; }
 
-  /* line 1057, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1057, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-footer {
     padding: 4rem 0;
     text-align: center; }
 
-  /* line 1062, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1062, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-footer .author {
     margin: 0 0 2rem 0;
     padding: 0 0 1.6rem 0;
     border-bottom: #EBF2F6 1px dashed; }
 
-  /* line 1068, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1068, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-footer .share {
     position: static;
     width: auto; }
 
-  /* line 1073, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1073, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .post-footer .share a {
     margin: 1.4rem 0.8rem 0 0.8rem; }
 
-  /* line 1078, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1078, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .older-posts,
   .newer-posts {
     position: static;
     margin: 10px 0; }
 
-  /* line 1083, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1083, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .page-number {
     display: block; }
 
-  /* line 1087, /Users/nandita/tiya/source/stylesheets/vendor/casper.css */
+  /* line 1087, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/vendor/casper.css */
   .site-footer {
     margin-top: 6rem;
     font-size: 1.1rem; } }
@@ -1199,295 +1199,294 @@ margin on the iframe, cause it breaks stuff. */
    End of file. Media queries should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
    ========================================================================== */
-/* line 1, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 1, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight table td {
   padding: 5px; }
 
-/* line 2, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 2, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight table pre {
   margin: 0; }
 
-/* line 3, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 3, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .cm {
   color: #999988;
   font-style: italic; }
 
-/* line 7, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 7, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .cp {
   color: #999999;
   font-weight: bold; }
 
-/* line 11, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 11, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .c1 {
   color: #999988;
   font-style: italic; }
 
-/* line 15, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 15, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .cs {
   color: #999999;
   font-weight: bold;
   font-style: italic; }
 
-/* line 20, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 20, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .c, .highlight .cd {
   color: #999988;
   font-style: italic; }
 
-/* line 24, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 24, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .err {
   color: #a61717;
   background-color: #e3d2d2; }
 
-/* line 28, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 28, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gd {
   color: #000000;
   background-color: #ffdddd; }
 
-/* line 32, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 32, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .ge {
   color: #000000;
   font-style: italic; }
 
-/* line 36, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 36, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gr {
   color: #aa0000; }
 
-/* line 39, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 39, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gh {
   color: #999999; }
 
-/* line 42, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 42, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gi {
   color: #000000;
   background-color: #ddffdd; }
 
-/* line 46, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 46, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .go {
   color: #888888; }
 
-/* line 49, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 49, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gp {
   color: #555555; }
 
-/* line 52, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 52, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gs {
   font-weight: bold; }
 
-/* line 55, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 55, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gu {
   color: #aaaaaa; }
 
-/* line 58, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 58, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .gt {
   color: #aa0000; }
 
-/* line 61, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 61, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .kc {
   color: #000000;
   font-weight: bold; }
 
-/* line 65, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 65, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .kd {
   color: #000000;
   font-weight: bold; }
 
-/* line 69, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 69, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .kn {
   color: #000000;
   font-weight: bold; }
 
-/* line 73, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 73, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .kp {
   color: #000000;
   font-weight: bold; }
 
-/* line 77, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 77, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .kr {
   color: #000000;
   font-weight: bold; }
 
-/* line 81, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 81, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .kt {
   color: #445588;
   font-weight: bold; }
 
-/* line 85, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 85, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .k, .highlight .kv {
   color: #000000;
   font-weight: bold; }
 
-/* line 89, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 89, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .mf {
   color: #009999; }
 
-/* line 92, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 92, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .mh {
   color: #009999; }
 
-/* line 95, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 95, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .il {
   color: #009999; }
 
-/* line 98, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 98, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .mi {
   color: #009999; }
 
-/* line 101, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 101, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .mo {
   color: #009999; }
 
-/* line 104, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 104, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .m, .highlight .mb, .highlight .mx {
   color: #009999; }
 
-/* line 107, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 107, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .sb {
   color: #d14; }
 
-/* line 110, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 110, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .sc {
   color: #d14; }
 
-/* line 113, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 113, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .sd {
   color: #d14; }
 
-/* line 116, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 116, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .s2 {
   color: #d14; }
 
-/* line 119, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 119, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .se {
   color: #d14; }
 
-/* line 122, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 122, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .sh {
   color: #d14; }
 
-/* line 125, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 125, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .si {
   color: #d14; }
 
-/* line 128, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 128, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .sx {
   color: #d14; }
 
-/* line 131, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 131, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .sr {
   color: #009926; }
 
-/* line 134, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 134, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .s1 {
   color: #d14; }
 
-/* line 137, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 137, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .ss {
   color: #990073; }
 
-/* line 140, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 140, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .s {
   color: #d14; }
 
-/* line 143, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 143, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .na {
   color: #008080; }
 
-/* line 146, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 146, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .bp {
   color: #999999; }
 
-/* line 149, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 149, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nb {
   color: #0086B3; }
 
-/* line 152, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 152, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nc {
   color: #445588;
   font-weight: bold; }
 
-/* line 156, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 156, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .no {
   color: #008080; }
 
-/* line 159, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 159, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nd {
   color: #3c5d5d;
   font-weight: bold; }
 
-/* line 163, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 163, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .ni {
   color: #800080; }
 
-/* line 166, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 166, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .ne {
   color: #990000;
   font-weight: bold; }
 
-/* line 170, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 170, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nf {
   color: #990000;
   font-weight: bold; }
 
-/* line 174, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 174, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nl {
   color: #990000;
   font-weight: bold; }
 
-/* line 178, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 178, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nn {
   color: #555555; }
 
-/* line 181, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 181, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nt {
   color: #000080; }
 
-/* line 184, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 184, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .vc {
   color: #008080; }
 
-/* line 187, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 187, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .vg {
   color: #008080; }
 
-/* line 190, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 190, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .vi {
   color: #008080; }
 
-/* line 193, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 193, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .nv {
   color: #008080; }
 
-/* line 196, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 196, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .ow {
   color: #000000;
   font-weight: bold; }
 
-/* line 200, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 200, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .o {
   color: #000000;
   font-weight: bold; }
 
-/* line 204, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 204, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight .w {
   color: #bbbbbb; }
 
-/* line 207, /Users/nandita/tiya/source/stylesheets/_syntax.css.erb */
+/* line 207, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/_syntax.css.erb */
 .highlight {
   background-color: #f8f8f8; }
 
-/* line 5, /Users/nandita/tiya/source/stylesheets/application.css.scss */
+/* line 5, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/application.css.scss */
 pre {
   background: transparent;
   border-style: none;
   padding: initial; }
 
-/* line 11, /Users/nandita/tiya/source/stylesheets/application.css.scss */
+/* line 11, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/application.css.scss */
 .site-head {
   background: url("http://www.myfreetextures.com/wp-content/uploads/2011/06/old-paper-floral-parchment-background-texture.jpg") no-repeat;
   background-position: center;
-  /*background: 'background.png'*/
   color: black; }
 
-/* line 17, /Users/nandita/tiya/source/stylesheets/application.css.scss */
+/* line 16, /Users/nandita/Projects/Ironyard/week-3/day-14/source/stylesheets/application.css.scss */
 .post-title {
   color: black; }
